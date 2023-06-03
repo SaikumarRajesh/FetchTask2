@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+h1.heading{
+    text-align: center;
+    margin-top: 20px;
+    color: brown;
+}
+div.inputdiv{
+    text-align: center;
+    margin-top: 40px;
+}
+input.inputelement{
+    width: 30%;
+}
+button.Searchbutton{
+    margin-top: 10px;
+}
+div.outputdiv{
+    margin-top: 100px;
+    color: aliceblue;
+}
